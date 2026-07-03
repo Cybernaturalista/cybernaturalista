@@ -1,100 +1,97 @@
-````markdown
 <div align="center">
 
-# 🌑 BIOSPHERE RESEARCH TERMINAL
+# 🌑 CYBERNATURALISTA
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║                     BIOSYSTEM :: RESEARCH NODE                       ║
+║                     BIOSPHERE RESEARCH TERMINAL                      ║
 ║                                                                      ║
-║                         NODE ............ VG-001                     ║
-║                         STATUS .......... ONLINE                     ║
-║                         LOCATION ........ BRAZIL                     ║
-║                         MISSION .......... OBSERVE                   ║
-║                                         UNDERSTAND                  ║
-║                                         PROTECT                     ║
+║                     VERSION ............. 3.1                        ║
+║                     NODE ................ CN-001                     ║
+║                     STATUS .............. ONLINE                     ║
+║                     REGION .............. BRAZIL                     ║
+║                                                                      ║
+║                     INITIALIZING ECOSYSTEM...                        ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-*"Nature leaves traces. I just document them."*
+*"Every ecosystem tells a story. My work is learning how to read it."*
 
 </div>
 
 ---
-
-# $ boot biosystem
+## `$ boot`
 
 ```console
-> Loading operating system...
+> Starting BIOSYSTEM...
 
-✔ Environmental sensors
+✔ Initializing environmental sensors
 
-✔ Biodiversity database
+✔ Connecting biodiversity database
 
-✔ Field notebooks
+✔ Loading field notebooks
 
-✔ Research archives
+✔ Loading species archive
 
-✔ Conservation protocols
+✔ Synchronizing observations
 
-✔ Open Science modules
+✔ Establishing GitHub connection
 
-System initialized successfully.
+System ready.
 ```
 
 ---
-
-# $ whoami
+## `$ whoami`
 
 ```yaml
 name: V
 
-role: Biologist
+username: Cybernaturalista
+
+profession: Biologist
 
 focus:
   - Urban Ecology
   - Chiroptera
   - Biodiversity Conservation
 
-interests:
-  - Scientific Communication
-  - Environmental Education
-  - Open Science
-  - Data Analysis
+currently_learning:
+  - Python
+  - R
   - GIS
-  - Programming
+  - Bioacoustics
 
-status:
-  Monitoring urban biodiversity...
+mission:
+  Observe.
+  Understand.
+  Protect.
 ```
 
 ---
-
-# $ mission
+## `$ mission`
 
 ```text
 MISSION STATUS
 
-████████████████████████░░░░ 80%
+███████████████████████░░░░ 82%
 
 Current objectives
 
-✓ Study urban biodiversity
+✓ Urban Biodiversity
 
-✓ Promote conservation
+✓ Bat Conservation
 
-✓ Produce scientific knowledge
+✓ Scientific Communication
 
-✓ Build educational resources
+✓ Environmental Education
 
-✓ Develop open projects
+✓ Open Science
 ```
 
 ---
-
-# $ modules
+## `$ modules`
 
 ```text
 Ecology                     ██████████
@@ -124,163 +121,457 @@ Bioacoustics                ██░░░░░░░░
 
 ---
 
-# $ ls research/
+## `$ equipment`
 
-```text
-📁 bats/
-
-    monitoring/
-
-    ecology/
-
-    conservation/
-
-    outreach/
-
-──────────────────────────────────────────
-
-📁 urban_ecology/
-
-📁 cemetery_ecology/
-
-📁 environmental_education/
-
-📁 scientific_communication/
-
-📁 datasets/
-
-📁 publications/
-
-📁 experiments/
-```
-
----
-
-# $ scan ecosystem
-
-```text
-═══════════════════════════════════════
-
-Moon Phase
-
-████████░░
-
-Bat Activity
-
-██████████
-
-Environmental Noise
-
-███░░░░░░░
-
-Humidity
-
-███████░░░
-
-Temperature
-
-██████░░░░
-
-Research Status
-
-ACTIVE
-
-═══════════════════════════════════════
-```
-
----
-
-# $ equipment
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown"/>
-
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge"/>
-
-</p>
-
----
-
-# $ github stats
+> Loading field equipment...
 
 <div align="center">
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=Cybernaturalista&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+### 🧬 Research
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybernaturalista&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+<br>
+
+### 🌍 Geospatial
+
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+
+<br>
+
+### 🎨 Communication
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+<br>
+
+### 📚 Scientific Workflow
+
+![Open Science](https://img.shields.io/badge/Open_Science-2E8B57?style=for-the-badge)
+![Conservation](https://img.shields.io/badge/Conservation-228B22?style=for-the-badge)
+![Environmental_Education](https://img.shields.io/badge/Environmental_Education-3CB371?style=for-the-badge)
 
 </div>
 
 ---
 
-# $ git log
+```text
+FIELD EQUIPMENT STATUS
 
-<div align="center">
+✓ Data Collection Kit
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cybernaturalista&theme=chartreuse-dark&hide_border=true"/>
+✓ Research Notebook
 
-</div>
+✓ GIS Mapping
 
----
+✓ Statistical Analysis
 
-# $ contribution graph
+✓ Scientific Communication
 
-<div align="center">
+✓ Version Control
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cybernaturalista&theme=chartreuse-dark&hide_border=true"/>
+Equipment Status............. READY
+```
 
-</div>
-
----
-
-# $ cat philosophy.txt
+## `$ system monitor`
 
 ```text
-Observe carefully.
+╔══════════════════════════════════════════════════════════════╗
+║                      SYSTEM ANALYTICS                       ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  Monitoring repository activity...                           ║
+║  Synchronizing contribution history...                       ║
+║  Collecting programming metrics...                           ║
+║                                                              ║
+║  STATUS ............................................. ACTIVE ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Question constantly.
+<div align="center">
 
-Collect responsibly.
+### 📊 Repository Statistics
 
-Share knowledge openly.
+<img
+height="175"
+src="https://github-readme-stats.vercel.app/api?username=Cybernaturalista&show_icons=true&theme=merko&hide_border=true&bg_color=000000&title_color=00FF88&text_color=C9D1D9&icon_color=00FF88"/>
 
-Protect biodiversity.
+</div>
 
-Leave ecosystems better than you found them.
+---
+
+<div align="center">
+
+### 🧬 Primary Languages
+
+<img
+height="175"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cybernaturalista&layout=compact&theme=merko&hide_border=true&bg_color=000000&title_color=00FF88&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 Commit Streak
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Cybernaturalista&theme=merko&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📡 Contribution Activity
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Cybernaturalista&theme=merko"/>
+
+</div>
+
+---
+
+```text
+SYSTEM REPORT
+
+Repository Status............. ONLINE
+
+Contribution Network.......... SYNCHRONIZED
+
+Code Archive.................. STABLE
+
+Knowledge Base................ EXPANDING
+
+Last Scan..................... SUCCESS
+```
+## `$ tree research_database`
+
+```text
+research_database/
+│
+├── 🦇 chiroptera/
+│   ├── urban_ecology/
+│   ├── behavior/
+│   ├── conservation/
+│   ├── bioacoustics/
+│   └── species_monitoring/
+│
+├── 🌿 urban_ecosystems/
+│   ├── biodiversity/
+│   ├── green_areas/
+│   ├── ecological_networks/
+│   └── ecosystem_services/
+│
+├── 🪦 cemetery_ecology/
+│   ├── wildlife/
+│   ├── flora/
+│   ├── bat_houses/
+│   └── environmental_education/
+│
+├── 📢 science_communication/
+│   ├── social_media/
+│   ├── outreach/
+│   ├── educational_materials/
+│   └── public_engagement/
+│
+├── 📊 data_science/
+│   ├── R/
+│   ├── python/
+│   ├── statistics/
+│   └── visualization/
+│
+├── 🌎 conservation/
+│   ├── one_health/
+│   ├── urban_wildlife/
+│   ├── environmental_policy/
+│   └── biodiversity/
+│
+└── 📚 publications/
+    ├── papers/
+    ├── reviews/
+    ├── presentations/
+    └── datasets/
 ```
 
 ---
 
-# $ shutdown
+## `$ ls active_projects`
+
+```text
+📂 bat/
+
+   Scientific outreach
+
+   Environmental education
+
+   Urban bat monitoring
+
+────────────────────────────────────────
+
+📂 bat-education/
+
+   Educational resources
+
+   Conservation campaigns
+
+────────────────────────────────────────
+
+📂 cemetery-biodiversity/
+
+   Urban ecology
+
+   Wildlife surveys
+
+────────────────────────────────────────
+
+📂 urban-ecology/
+
+   Research
+
+   Open datasets
+
+────────────────────────────────────────
+
+📂 cybernaturalista/
+
+   Digital laboratory
+
+   Open-source experiments
+
+```
+
+---
+
+## `$ locate current_focus`
+
+```yaml
+Current Research:
+
+🦇 Urban bats
+
+🌿 Urban biodiversity
+
+🏙️ Ecology of cities
+
+🪦 Cemetery ecosystems
+
+📢 Science communication
+
+📊 Scientific data visualization
+
+💻 Open-source tools for conservation
+```
+
+---
+
+## `$ database status`
+
+```text
+DATABASE STATUS
+
+Species Records................. AVAILABLE
+
+Research Notes................. SYNCHRONIZED
+
+Educational Resources.......... ONLINE
+
+Open Data...................... GROWING
+
+Field Observations............. ACTIVE
+
+Knowledge Base................. EXPANDING
+
+Last Backup.................... SUCCESS
+```
+## `$ monitor ecosystem`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                  ENVIRONMENTAL MONITOR                      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+### 🌎 Ecosystem Status
+
+```text
+ECOSYSTEM HEALTH
+
+Urban Biodiversity ............ ████████░░
+
+Habitat Connectivity .......... ███████░░░
+
+Conservation Actions .......... █████████░
+
+Community Engagement .......... ████████░░
+
+Scientific Outreach ........... ██████████
+```
+
+---
+
+### 🦇 Acoustic Monitoring
+
+```text
+ULTRASONIC DETECTOR
+
+Frequency Range ............... ACTIVE
+
+Acoustic Survey ............... RUNNING
+
+Species Detection ............. MONITORING
+
+Data Recording ................ ENABLED
+
+Signal Quality ................ █████████░
+```
+
+---
+
+### 🌙 Night Observation
+
+```text
+NOCTURNAL CONDITIONS
+
+Moon Visibility ............... ███████░░░
+
+Observation Window ............ OPEN
+
+Field Activity ................ ACTIVE
+
+Monitoring Status ............. ONLINE
+```
+
+---
+
+### 📡 Research Network
+
+```text
+FIELD STATION NETWORK
+
+Research Node................. CONNECTED
+
+Database...................... SYNCHRONIZED
+
+GitHub Repository............. ONLINE
+
+Field Notebook................ UPDATED
+
+Open Science.................. AVAILABLE
+```
+
+---
+
+### 🧬 System Diagnostics
+
+```text
+SYSTEM CHECK
+
+Sensors....................... OK
+
+Research Modules.............. OK
+
+Species Archive............... OK
+
+Knowledge Database............ OK
+
+Backup........................ COMPLETE
+
+Status........................ OPERATIONAL
+```
+
+---
+
+## `$ echo $MISSION`
+
+```text
+Observe ecosystems.
+
+Document biodiversity.
+
+Share knowledge.
+
+Promote conservation.
+
+Continue monitoring...
+```
+
+## `$ shutdown`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                      SYSTEM TERMINATION                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ```console
-Saving field notes...
+> Saving field observations...
 
-Uploading observations...
+✔ Field notes synchronized
+✔ Species records archived
+✔ Research logs updated
+✔ Educational materials stored
+✔ Database backup completed
 
-Synchronizing database...
+> Closing environmental sensors...
+> Disconnecting acoustic monitor...
+> Ending satellite link...
 
 Connection closed.
-
-End of transmission.
 ```
 
+---
+
 <div align="center">
+
+```text
+──────────────────────────────────────────────────────────────
+
+CYBERNATURALISTA BIOSYSTEM
+
+STATUS.................. ONLINE (STANDBY)
+MONITORING.............. CONTINUOUS
+DATABASE................ SYNCHRONIZED
+
+──────────────────────────────────────────────────────────────
+```
+
+</div>
+
+---
+
+## `$ echo "final protocol"`
+
+```text
+No ecosystem is separate from observation.
+
+Every dataset is a fragment of a living system.
+
+Every silence in data is also information.
+
+Monitoring will continue beyond this interface.
+```
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    END OF TRANSMISSION                      ║
+║                                                              ║
+║                BIOSPHERE NETWORK REMAINS ACTIVE             ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 🦇
 
-**BIOSYSTEM REMAINS ONLINE**
-
 </div>
-````
