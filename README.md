@@ -576,3 +576,6 @@ Monitoring will continue beyond this interface.
 
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cybernaturalista/Cybernaturalista/main/assets/banner.svg" />
+</p>
